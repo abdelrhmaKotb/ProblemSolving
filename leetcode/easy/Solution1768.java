@@ -1,4 +1,4 @@
-class Solution {
+class Solution1768 {
     public static void main(String[] args) {
         System.out.println(mergeAlternately("abc","xyzg"));
     }
